@@ -1,0 +1,2599 @@
+====== STACK : push ======
+stack : 25523
+====== STACK : top ======
+top = 25523
+stack : 25523
+====== STACK : push ======
+stack : 21344 25523
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== STACK : stackSize ======
+stackSize = 2
+stack : 21344 25523
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== STACK : top ======
+top = 21344
+stack : 21344 25523
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== QUEUE : enqueue ======
+queue : 13064
+====== QUEUE : enqueue ======
+queue : 17313 13064
+====== QUEUE : queueSize ======
+queueSize = 2
+queue : 17313 13064
+====== QUEUE : dequeue ======
+queue : 17313
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 21344 25523
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== QUEUE : enqueue ======
+queue : 23229
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : dequeue ======
+queue :
+====== STACK : stackSize ======
+stackSize = 2
+stack : 21344 25523
+====== STACK : top ======
+top = 21344
+stack : 21344 25523
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== QUEUE : first ======
+first = NULL
+queue :
+====== STACK : top ======
+top = 21344
+stack : 21344 25523
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== STACK : pop ======
+stack : 25523
+====== QUEUE : first ======
+first = NULL
+queue :
+====== STACK : top ======
+top = 25523
+stack : 25523
+====== STACK : pop ======
+stack :
+====== STACK : top ======
+top = NULL
+stack :
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== STACK : push ======
+stack : 31417
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 31417
+====== STACK : pop ======
+stack :
+====== STACK : top ======
+top = NULL
+stack :
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== STACK : push ======
+stack : 24302
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 24302
+====== STACK : deleteStack ======
+stack :
+====== STACK : stackSize ======
+stackSize = 0
+stack :
+====== STACK : stackSize ======
+stackSize = 0
+stack :
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== STACK : top ======
+top = NULL
+stack :
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== STACK : top ======
+top = NULL
+stack :
+====== STACK : deleteStack ======
+stack :
+====== STACK : push ======
+stack : 17954
+====== STACK : push ======
+stack : 26824 17954
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== STACK : pop ======
+stack : 17954
+====== STACK : pop ======
+stack :
+====== STACK : pop ======
+stack :
+====== STACK : pop ======
+stack :
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== STACK : stackSize ======
+stackSize = 0
+stack :
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : dequeue ======
+queue :
+====== STACK : push ======
+stack : 5114
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : enqueue ======
+queue : 30141
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 30141
+====== STACK : pop ======
+stack :
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 30141
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 30141
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== STACK : top ======
+top = NULL
+stack :
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 30141
+====== QUEUE : dequeue ======
+queue :
+====== STACK : pop ======
+stack :
+====== STACK : stackSize ======
+stackSize = 0
+stack :
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== STACK : pop ======
+stack :
+====== STACK : top ======
+top = NULL
+stack :
+====== STACK : top ======
+top = NULL
+stack :
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== QUEUE : first ======
+first = NULL
+queue :
+====== STACK : push ======
+stack : 11822
+====== STACK : pop ======
+stack :
+====== QUEUE : enqueue ======
+queue : 5942
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 5942
+====== STACK : push ======
+stack : 12992
+====== STACK : stackSize ======
+stackSize = 1
+stack : 12992
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 5942
+====== QUEUE : enqueue ======
+queue : 24820 5942
+====== QUEUE : enqueue ======
+queue : 28716 24820 5942
+====== STACK : top ======
+top = 12992
+stack : 12992
+====== QUEUE : queueSize ======
+queueSize = 3
+queue : 28716 24820 5942
+====== QUEUE : first ======
+first = 5942
+queue : 28716 24820 5942
+====== STACK : top ======
+top = 12992
+stack : 12992
+====== QUEUE : first ======
+first = 5942
+queue : 28716 24820 5942
+====== QUEUE : queueSize ======
+queueSize = 3
+queue : 28716 24820 5942
+====== STACK : top ======
+top = 12992
+stack : 12992
+====== STACK : push ======
+stack : 7854 12992
+====== QUEUE : dequeue ======
+queue : 28716 24820
+====== QUEUE : queueSize ======
+queueSize = 2
+queue : 28716 24820
+====== STACK : stackSize ======
+stackSize = 2
+stack : 7854 12992
+====== QUEUE : dequeue ======
+queue : 28716
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 7854 12992
+====== STACK : top ======
+top = 7854
+stack : 7854 12992
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 7854 12992
+====== STACK : pop ======
+stack : 12992
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 28716
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 12992
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 12992
+====== QUEUE : enqueue ======
+queue : 25735 28716
+====== STACK : pop ======
+stack :
+====== QUEUE : queueSize ======
+queueSize = 2
+queue : 25735 28716
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 25735 28716
+====== STACK : top ======
+top = NULL
+stack :
+====== STACK : pop ======
+stack :
+====== STACK : push ======
+stack : 4755
+====== QUEUE : dequeue ======
+queue : 25735
+====== STACK : pop ======
+stack :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 25735
+====== STACK : pop ======
+stack :
+====== STACK : stackSize ======
+stackSize = 0
+stack :
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== QUEUE : first ======
+first = 25735
+queue : 25735
+====== STACK : push ======
+stack : 30847
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 30847
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 30847
+====== STACK : top ======
+top = 30847
+stack : 30847
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 25735
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 25735
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 25735
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 25735
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 30847
+====== QUEUE : dequeue ======
+queue :
+====== STACK : stackSize ======
+stackSize = 1
+stack : 30847
+====== STACK : pop ======
+stack :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== STACK : pop ======
+stack :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== QUEUE : dequeue ======
+queue :
+====== STACK : push ======
+stack : 16558
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : first ======
+first = NULL
+queue :
+====== STACK : stackSize ======
+stackSize = 1
+stack : 16558
+====== QUEUE : enqueue ======
+queue : 5793
+====== STACK : pop ======
+stack :
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : first ======
+first = NULL
+queue :
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== STACK : top ======
+top = NULL
+stack :
+====== STACK : pop ======
+stack :
+====== STACK : top ======
+top = NULL
+stack :
+====== STACK : stackSize ======
+stackSize = 0
+stack :
+====== STACK : pop ======
+stack :
+====== QUEUE : dequeue ======
+queue :
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== QUEUE : enqueue ======
+queue : 25978
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== STACK : pop ======
+stack :
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== STACK : push ======
+stack : 19160
+====== QUEUE : first ======
+first = NULL
+queue :
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== STACK : stackSize ======
+stackSize = 1
+stack : 19160
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 19160
+====== STACK : push ======
+stack : 18786 19160
+====== STACK : pop ======
+stack : 19160
+====== QUEUE : dequeue ======
+queue :
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 19160
+====== QUEUE : enqueue ======
+queue : 23858
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 23858
+====== STACK : push ======
+stack : 18252 19160
+====== STACK : pop ======
+stack : 19160
+====== STACK : pop ======
+stack :
+====== STACK : pop ======
+stack :
+====== QUEUE : first ======
+first = 23858
+queue : 23858
+====== STACK : stackSize ======
+stackSize = 0
+stack :
+====== QUEUE : first ======
+first = 23858
+queue : 23858
+====== STACK : pop ======
+stack :
+====== QUEUE : dequeue ======
+queue :
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== STACK : push ======
+stack : 7265
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : first ======
+first = NULL
+queue :
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 7265
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 7265
+====== STACK : push ======
+stack : 10709 7265
+====== STACK : top ======
+top = 10709
+stack : 10709 7265
+====== STACK : pop ======
+stack : 7265
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 7265
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== STACK : pop ======
+stack :
+====== STACK : pop ======
+stack :
+====== STACK : push ======
+stack : 28367
+====== STACK : stackSize ======
+stackSize = 1
+stack : 28367
+====== QUEUE : enqueue ======
+queue : 25771
+====== STACK : push ======
+stack : 17473 28367
+====== STACK : pop ======
+stack : 28367
+====== STACK : top ======
+top = 28367
+stack : 28367
+====== STACK : push ======
+stack : 25394 28367
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 25394 28367
+====== QUEUE : first ======
+first = 25771
+queue : 25771
+====== STACK : pop ======
+stack : 28367
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : enqueue ======
+queue : 10060
+====== QUEUE : dequeue ======
+queue :
+====== STACK : push ======
+stack : 29326 28367
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== STACK : pop ======
+stack : 28367
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== STACK : pop ======
+stack :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== QUEUE : dequeue ======
+queue :
+====== STACK : top ======
+top = NULL
+stack :
+====== QUEUE : first ======
+first = NULL
+queue :
+====== STACK : top ======
+top = NULL
+stack :
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : enqueue ======
+queue : 4507
+====== STACK : top ======
+top = NULL
+stack :
+====== QUEUE : deleteQueue ======
+queue :
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== STACK : pop ======
+stack :
+====== STACK : top ======
+top = NULL
+stack :
+====== STACK : pop ======
+stack :
+====== STACK : push ======
+stack : 27212
+====== STACK : stackSize ======
+stackSize = 1
+stack : 27212
+====== QUEUE : first ======
+first = NULL
+queue :
+====== STACK : top ======
+top = 27212
+stack : 27212
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 27212
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== QUEUE : dequeue ======
+queue :
+====== STACK : top ======
+top = 27212
+stack : 27212
+====== STACK : top ======
+top = 27212
+stack : 27212
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 27212
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== STACK : stackSize ======
+stackSize = 1
+stack : 27212
+====== STACK : top ======
+top = 27212
+stack : 27212
+====== QUEUE : enqueue ======
+queue : 1866
+====== STACK : pop ======
+stack :
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : enqueue ======
+queue : 17486
+====== QUEUE : dequeue ======
+queue :
+====== STACK : top ======
+top = NULL
+stack :
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== STACK : stackSize ======
+stackSize = 0
+stack :
+====== STACK : push ======
+stack : 32404
+====== STACK : push ======
+stack : 8213 32404
+====== QUEUE : enqueue ======
+queue : 4839
+====== STACK : stackSize ======
+stackSize = 2
+stack : 8213 32404
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 8213 32404
+====== STACK : top ======
+top = 8213
+stack : 8213 32404
+====== STACK : push ======
+stack : 30689 8213 32404
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 4839
+====== QUEUE : first ======
+first = 4839
+queue : 4839
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 30689 8213 32404
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 4839
+====== STACK : pop ======
+stack : 8213 32404
+====== STACK : push ======
+stack : 20059 8213 32404
+====== STACK : top ======
+top = 20059
+stack : 20059 8213 32404
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 4839
+====== QUEUE : first ======
+first = 4839
+queue : 4839
+====== QUEUE : first ======
+first = 4839
+queue : 4839
+====== STACK : push ======
+stack : 15343 20059 8213 32404
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 4839
+====== STACK : top ======
+top = 15343
+stack : 15343 20059 8213 32404
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 15343 20059 8213 32404
+====== QUEUE : first ======
+first = 4839
+queue : 4839
+====== QUEUE : first ======
+first = 4839
+queue : 4839
+====== STACK : top ======
+top = 15343
+stack : 15343 20059 8213 32404
+====== STACK : top ======
+top = 15343
+stack : 15343 20059 8213 32404
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 15343 20059 8213 32404
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 4839
+====== STACK : pop ======
+stack : 20059 8213 32404
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 4839
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 4839
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 20059 8213 32404
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 4839
+====== STACK : push ======
+stack : 17255 20059 8213 32404
+====== STACK : stackSize ======
+stackSize = 4
+stack : 17255 20059 8213 32404
+====== QUEUE : enqueue ======
+queue : 14457 4839
+====== QUEUE : first ======
+first = 4839
+queue : 14457 4839
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 14457 4839
+====== STACK : push ======
+stack : 13702 17255 20059 8213 32404
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 14457 4839
+====== STACK : top ======
+top = 13702
+stack : 13702 17255 20059 8213 32404
+====== STACK : top ======
+top = 13702
+stack : 13702 17255 20059 8213 32404
+====== STACK : push ======
+stack : 22928 13702 17255 20059 8213 32404
+====== QUEUE : first ======
+first = 4839
+queue : 14457 4839
+====== STACK : top ======
+top = 22928
+stack : 22928 13702 17255 20059 8213 32404
+====== QUEUE : first ======
+first = 4839
+queue : 14457 4839
+====== STACK : push ======
+stack : 2605 22928 13702 17255 20059 8213 32404
+====== STACK : top ======
+top = 2605
+stack : 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 14457 4839
+====== QUEUE : dequeue ======
+queue : 14457
+====== QUEUE : enqueue ======
+queue : 19255 14457
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 19255 14457
+====== QUEUE : dequeue ======
+queue : 19255
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 2605 22928 13702 17255 20059 8213 32404
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : first ======
+first = 19255
+queue : 19255
+====== STACK : push ======
+stack : 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : dequeue ======
+queue :
+====== STACK : stackSize ======
+stackSize = 8
+stack : 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : first ======
+first = NULL
+queue :
+====== QUEUE : first ======
+first = NULL
+queue :
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : enqueue ======
+queue : 8981
+====== STACK : stackSize ======
+stackSize = 8
+stack : 21817 2605 22928 13702 17255 20059 8213 32404
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : dequeue ======
+queue :
+====== STACK : push ======
+stack : 21073 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : dequeue ======
+queue :
+====== STACK : push ======
+stack : 26641 21073 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 26641 21073 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== QUEUE : first ======
+first = NULL
+queue :
+====== QUEUE : first ======
+first = NULL
+queue :
+====== QUEUE : enqueue ======
+queue : 23901
+====== STACK : top ======
+top = 26641
+stack : 26641 21073 21817 2605 22928 13702 17255 20059 8213 32404
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 26641 21073 21817 2605 22928 13702 17255 20059 8213 32404
+====== STACK : pop ======
+stack : 21073 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== STACK : push ======
+stack : 23871 21073 21817 2605 22928 13702 17255 20059 8213 32404
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 23871 21073 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== STACK : push ======
+stack : 3956 23871 21073 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== STACK : pop ======
+stack : 23871 21073 21817 2605 22928 13702 17255 20059 8213 32404
+====== STACK : pop ======
+stack : 21073 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== QUEUE : first ======
+first = NULL
+queue :
+====== QUEUE : dequeue ======
+queue :
+====== STACK : pop ======
+stack : 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== STACK : push ======
+stack : 21311 21817 2605 22928 13702 17255 20059 8213 32404
+====== STACK : top ======
+top = 21311
+stack : 21311 21817 2605 22928 13702 17255 20059 8213 32404
+====== STACK : top ======
+top = 21311
+stack : 21311 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== STACK : stackSize ======
+stackSize = 9
+stack : 21311 21817 2605 22928 13702 17255 20059 8213 32404
+====== STACK : top ======
+top = 21311
+stack : 21311 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : dequeue ======
+queue :
+====== STACK : top ======
+top = 21311
+stack : 21311 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : dequeue ======
+queue :
+====== STACK : top ======
+top = 21311
+stack : 21311 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : deleteQueue ======
+queue :
+====== STACK : pop ======
+stack : 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : first ======
+first = NULL
+queue :
+====== STACK : top ======
+top = 21817
+stack : 21817 2605 22928 13702 17255 20059 8213 32404
+====== STACK : push ======
+stack : 30757 21817 2605 22928 13702 17255 20059 8213 32404
+====== STACK : stackSize ======
+stackSize = 9
+stack : 30757 21817 2605 22928 13702 17255 20059 8213 32404
+====== STACK : push ======
+stack : 22601 30757 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : first ======
+first = NULL
+queue :
+====== QUEUE : enqueue ======
+queue : 27089
+====== QUEUE : enqueue ======
+queue : 15829 27089
+====== STACK : top ======
+top = 22601
+stack : 22601 30757 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : dequeue ======
+queue : 15829
+====== STACK : push ======
+stack : 13208 22601 30757 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : first ======
+first = 15829
+queue : 15829
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 15829
+====== STACK : top ======
+top = 13208
+stack : 13208 22601 30757 21817 2605 22928 13702 17255 20059 8213 32404
+====== STACK : stackSize ======
+stackSize = 11
+stack : 13208 22601 30757 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : enqueue ======
+queue : 2000 15829
+====== QUEUE : dequeue ======
+queue : 2000
+====== STACK : pop ======
+stack : 22601 30757 21817 2605 22928 13702 17255 20059 8213 32404
+====== STACK : stackSize ======
+stackSize = 10
+stack : 22601 30757 21817 2605 22928 13702 17255 20059 8213 32404
+====== STACK : stackSize ======
+stackSize = 10
+stack : 22601 30757 21817 2605 22928 13702 17255 20059 8213 32404
+====== STACK : top ======
+top = 22601
+stack : 22601 30757 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : first ======
+first = 2000
+queue : 2000
+====== QUEUE : enqueue ======
+queue : 17387 2000
+====== QUEUE : queueSize ======
+queueSize = 2
+queue : 17387 2000
+====== STACK : stackSize ======
+stackSize = 10
+stack : 22601 30757 21817 2605 22928 13702 17255 20059 8213 32404
+====== STACK : stackSize ======
+stackSize = 10
+stack : 22601 30757 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : first ======
+first = 2000
+queue : 17387 2000
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 22601 30757 21817 2605 22928 13702 17255 20059 8213 32404
+====== STACK : pop ======
+stack : 30757 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : enqueue ======
+queue : 12647 17387 2000
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 30757 21817 2605 22928 13702 17255 20059 8213 32404
+====== STACK : top ======
+top = 30757
+stack : 30757 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : dequeue ======
+queue : 12647 17387
+====== QUEUE : dequeue ======
+queue : 12647
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 12647
+====== STACK : pop ======
+stack : 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 12647
+====== STACK : top ======
+top = 21817
+stack : 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 12647
+====== STACK : push ======
+stack : 30967 21817 2605 22928 13702 17255 20059 8213 32404
+====== STACK : stackSize ======
+stackSize = 9
+stack : 30967 21817 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : first ======
+first = NULL
+queue :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== QUEUE : dequeue ======
+queue :
+====== STACK : pop ======
+stack : 21817 2605 22928 13702 17255 20059 8213 32404
+====== STACK : pop ======
+stack : 2605 22928 13702 17255 20059 8213 32404
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== STACK : pop ======
+stack : 22928 13702 17255 20059 8213 32404
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== STACK : push ======
+stack : 4982 22928 13702 17255 20059 8213 32404
+====== STACK : push ======
+stack : 8569 4982 22928 13702 17255 20059 8213 32404
+====== STACK : push ======
+stack : 31751 8569 4982 22928 13702 17255 20059 8213 32404
+====== QUEUE : enqueue ======
+queue : 9663
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : dequeue ======
+queue :
+====== STACK : stackSize ======
+stackSize = 9
+stack : 31751 8569 4982 22928 13702 17255 20059 8213 32404
+====== QUEUE : first ======
+first = NULL
+queue :
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 31751 8569 4982 22928 13702 17255 20059 8213 32404
+====== QUEUE : first ======
+first = NULL
+queue :
+====== QUEUE : enqueue ======
+queue : 14043
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 31751 8569 4982 22928 13702 17255 20059 8213 32404
+====== QUEUE : first ======
+first = 14043
+queue : 14043
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : enqueue ======
+queue : 10043
+====== QUEUE : enqueue ======
+queue : 4073 10043
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 31751 8569 4982 22928 13702 17255 20059 8213 32404
+====== STACK : stackSize ======
+stackSize = 9
+stack : 31751 8569 4982 22928 13702 17255 20059 8213 32404
+====== STACK : top ======
+top = 31751
+stack : 31751 8569 4982 22928 13702 17255 20059 8213 32404
+====== STACK : stackSize ======
+stackSize = 9
+stack : 31751 8569 4982 22928 13702 17255 20059 8213 32404
+====== QUEUE : enqueue ======
+queue : 30860 4073 10043
+====== QUEUE : first ======
+first = 10043
+queue : 30860 4073 10043
+====== QUEUE : first ======
+first = 10043
+queue : 30860 4073 10043
+====== QUEUE : enqueue ======
+queue : 28016 30860 4073 10043
+====== QUEUE : dequeue ======
+queue : 28016 30860 4073
+====== STACK : pop ======
+stack : 8569 4982 22928 13702 17255 20059 8213 32404
+====== STACK : pop ======
+stack : 4982 22928 13702 17255 20059 8213 32404
+====== QUEUE : first ======
+first = 4073
+queue : 28016 30860 4073
+====== STACK : pop ======
+stack : 22928 13702 17255 20059 8213 32404
+====== STACK : top ======
+top = 22928
+stack : 22928 13702 17255 20059 8213 32404
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 28016 30860 4073
+====== STACK : push ======
+stack : 10543 22928 13702 17255 20059 8213 32404
+====== STACK : pop ======
+stack : 22928 13702 17255 20059 8213 32404
+====== QUEUE : dequeue ======
+queue : 28016 30860
+====== QUEUE : dequeue ======
+queue : 28016
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 28016
+====== STACK : stackSize ======
+stackSize = 6
+stack : 22928 13702 17255 20059 8213 32404
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 22928 13702 17255 20059 8213 32404
+====== STACK : pop ======
+stack : 13702 17255 20059 8213 32404
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 13702 17255 20059 8213 32404
+====== STACK : push ======
+stack : 6054 13702 17255 20059 8213 32404
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 6054 13702 17255 20059 8213 32404
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 28016
+====== QUEUE : first ======
+first = 28016
+queue : 28016
+====== QUEUE : first ======
+first = 28016
+queue : 28016
+====== QUEUE : enqueue ======
+queue : 12156 28016
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 6054 13702 17255 20059 8213 32404
+====== QUEUE : first ======
+first = 28016
+queue : 12156 28016
+====== QUEUE : enqueue ======
+queue : 7490 12156 28016
+====== QUEUE : first ======
+first = 28016
+queue : 7490 12156 28016
+====== QUEUE : dequeue ======
+queue : 7490 12156
+====== STACK : top ======
+top = 6054
+stack : 6054 13702 17255 20059 8213 32404
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 7490 12156
+====== STACK : pop ======
+stack : 13702 17255 20059 8213 32404
+====== STACK : pop ======
+stack : 17255 20059 8213 32404
+====== STACK : pop ======
+stack : 20059 8213 32404
+====== QUEUE : dequeue ======
+queue : 7490
+====== STACK : stackSize ======
+stackSize = 3
+stack : 20059 8213 32404
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 20059 8213 32404
+====== QUEUE : enqueue ======
+queue : 11705 7490
+====== QUEUE : dequeue ======
+queue : 11705
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 11705
+====== STACK : top ======
+top = 20059
+stack : 20059 8213 32404
+====== QUEUE : dequeue ======
+queue :
+====== STACK : pop ======
+stack : 8213 32404
+====== STACK : pop ======
+stack : 32404
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== QUEUE : dequeue ======
+queue :
+====== STACK : push ======
+stack : 6005 32404
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== STACK : top ======
+top = 6005
+stack : 6005 32404
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 6005 32404
+====== QUEUE : first ======
+first = NULL
+queue :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== STACK : pop ======
+stack : 32404
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : dequeue ======
+queue :
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 32404
+====== STACK : push ======
+stack : 12329 32404
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 12329 32404
+====== STACK : stackSize ======
+stackSize = 2
+stack : 12329 32404
+====== STACK : stackSize ======
+stackSize = 2
+stack : 12329 32404
+====== STACK : top ======
+top = 12329
+stack : 12329 32404
+====== STACK : top ======
+top = 12329
+stack : 12329 32404
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 12329 32404
+====== STACK : pop ======
+stack : 32404
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : first ======
+first = NULL
+queue :
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : enqueue ======
+queue : 14179
+====== STACK : top ======
+top = 32404
+stack : 32404
+====== STACK : stackSize ======
+stackSize = 1
+stack : 32404
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 14179
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : dequeue ======
+queue :
+====== STACK : push ======
+stack : 21554 32404
+====== QUEUE : dequeue ======
+queue :
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 21554 32404
+====== STACK : stackSize ======
+stackSize = 2
+stack : 21554 32404
+====== STACK : top ======
+top = 21554
+stack : 21554 32404
+====== STACK : pop ======
+stack : 32404
+====== STACK : push ======
+stack : 19158 32404
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 19158 32404
+====== STACK : stackSize ======
+stackSize = 2
+stack : 19158 32404
+====== STACK : stackSize ======
+stackSize = 2
+stack : 19158 32404
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== STACK : top ======
+top = 19158
+stack : 19158 32404
+====== STACK : pop ======
+stack : 32404
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== QUEUE : enqueue ======
+queue : 22222
+====== STACK : pop ======
+stack :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 22222
+====== QUEUE : enqueue ======
+queue : 22696 22222
+====== QUEUE : first ======
+first = 22222
+queue : 22696 22222
+====== STACK : top ======
+top = NULL
+stack :
+====== STACK : top ======
+top = NULL
+stack :
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== QUEUE : enqueue ======
+queue : 28302 22696 22222
+====== STACK : push ======
+stack : 27889
+====== STACK : push ======
+stack : 18540 27889
+====== QUEUE : dequeue ======
+queue : 28302 22696
+====== QUEUE : queueSize ======
+queueSize = 2
+queue : 28302 22696
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 18540 27889
+====== STACK : push ======
+stack : 30856 18540 27889
+====== QUEUE : first ======
+first = 22696
+queue : 28302 22696
+====== STACK : pop ======
+stack : 18540 27889
+====== STACK : top ======
+top = 18540
+stack : 18540 27889
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 18540 27889
+====== QUEUE : queueSize ======
+queueSize = 2
+queue : 28302 22696
+====== QUEUE : queueSize ======
+queueSize = 2
+queue : 28302 22696
+====== QUEUE : dequeue ======
+queue : 28302
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 18540 27889
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 18540 27889
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 28302
+====== STACK : pop ======
+stack : 27889
+====== QUEUE : dequeue ======
+queue :
+====== STACK : pop ======
+stack :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== STACK : stackSize ======
+stackSize = 0
+stack :
+====== STACK : top ======
+top = NULL
+stack :
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== STACK : top ======
+top = NULL
+stack :
+====== QUEUE : dequeue ======
+queue :
+====== STACK : pop ======
+stack :
+====== STACK : top ======
+top = NULL
+stack :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== STACK : top ======
+top = NULL
+stack :
+====== STACK : top ======
+top = NULL
+stack :
+====== QUEUE : enqueue ======
+queue : 18231
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 18231
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 18231
+====== STACK : pop ======
+stack :
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 18231
+====== QUEUE : first ======
+first = 18231
+queue : 18231
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 18231
+====== STACK : top ======
+top = NULL
+stack :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 18231
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== STACK : pop ======
+stack :
+====== STACK : stackSize ======
+stackSize = 0
+stack :
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 18231
+====== QUEUE : first ======
+first = 18231
+queue : 18231
+====== STACK : stackSize ======
+stackSize = 0
+stack :
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== STACK : push ======
+stack : 8478
+====== QUEUE : first ======
+first = 18231
+queue : 18231
+====== STACK : pop ======
+stack :
+====== STACK : push ======
+stack : 30807
+====== STACK : push ======
+stack : 28651 30807
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 18231
+====== QUEUE : enqueue ======
+queue : 28216 18231
+====== QUEUE : dequeue ======
+queue : 28216
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 28216
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 28216
+====== STACK : stackSize ======
+stackSize = 2
+stack : 28651 30807
+====== STACK : top ======
+top = 28651
+stack : 28651 30807
+====== QUEUE : first ======
+first = 28216
+queue : 28216
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 28651 30807
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 28216
+====== STACK : stackSize ======
+stackSize = 2
+stack : 28651 30807
+====== QUEUE : first ======
+first = 28216
+queue : 28216
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 28216
+====== QUEUE : first ======
+first = 28216
+queue : 28216
+====== STACK : stackSize ======
+stackSize = 2
+stack : 28651 30807
+====== QUEUE : first ======
+first = 28216
+queue : 28216
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 28216
+====== QUEUE : enqueue ======
+queue : 22692 28216
+====== QUEUE : queueSize ======
+queueSize = 2
+queue : 22692 28216
+====== STACK : top ======
+top = 28651
+stack : 28651 30807
+====== STACK : stackSize ======
+stackSize = 2
+stack : 28651 30807
+====== STACK : push ======
+stack : 27250 28651 30807
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 27250 28651 30807
+====== STACK : push ======
+stack : 32132 27250 28651 30807
+====== STACK : pop ======
+stack : 27250 28651 30807
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 27250 28651 30807
+====== STACK : stackSize ======
+stackSize = 3
+stack : 27250 28651 30807
+====== STACK : pop ======
+stack : 28651 30807
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 22692 28216
+====== QUEUE : dequeue ======
+queue : 22692
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 22692
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 28651 30807
+====== QUEUE : dequeue ======
+queue :
+====== STACK : top ======
+top = 28651
+stack : 28651 30807
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 28651 30807
+====== STACK : push ======
+stack : 29451 28651 30807
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== QUEUE : enqueue ======
+queue : 23718
+====== QUEUE : enqueue ======
+queue : 28061 23718
+====== QUEUE : dequeue ======
+queue : 28061
+====== STACK : push ======
+stack : 5792 29451 28651 30807
+====== QUEUE : first ======
+first = 28061
+queue : 28061
+====== STACK : push ======
+stack : 6441 5792 29451 28651 30807
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 28061
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 28061
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 6441 5792 29451 28651 30807
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 28061
+====== STACK : push ======
+stack : 27347 6441 5792 29451 28651 30807
+====== QUEUE : dequeue ======
+queue :
+====== STACK : stackSize ======
+stackSize = 6
+stack : 27347 6441 5792 29451 28651 30807
+====== STACK : pop ======
+stack : 6441 5792 29451 28651 30807
+====== QUEUE : enqueue ======
+queue : 16550
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : enqueue ======
+queue : 12872
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 12872
+====== QUEUE : enqueue ======
+queue : 24866 12872
+====== STACK : pop ======
+stack : 5792 29451 28651 30807
+====== QUEUE : dequeue ======
+queue : 24866
+====== STACK : top ======
+top = 5792
+stack : 5792 29451 28651 30807
+====== STACK : push ======
+stack : 21993 5792 29451 28651 30807
+====== QUEUE : first ======
+first = 24866
+queue : 24866
+====== STACK : stackSize ======
+stackSize = 5
+stack : 21993 5792 29451 28651 30807
+====== STACK : pop ======
+stack : 5792 29451 28651 30807
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : first ======
+first = NULL
+queue :
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 5792 29451 28651 30807
+====== STACK : stackSize ======
+stackSize = 4
+stack : 5792 29451 28651 30807
+====== QUEUE : first ======
+first = NULL
+queue :
+====== STACK : top ======
+top = 5792
+stack : 5792 29451 28651 30807
+====== QUEUE : first ======
+first = NULL
+queue :
+====== STACK : pop ======
+stack : 29451 28651 30807
+====== QUEUE : enqueue ======
+queue : 23886
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 29451 28651 30807
+====== STACK : pop ======
+stack : 28651 30807
+====== STACK : push ======
+stack : 31264 28651 30807
+====== STACK : stackSize ======
+stackSize = 3
+stack : 31264 28651 30807
+====== STACK : push ======
+stack : 2100 31264 28651 30807
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 23886
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 23886
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : first ======
+first = NULL
+queue :
+====== QUEUE : first ======
+first = NULL
+queue :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 2100 31264 28651 30807
+====== QUEUE : dequeue ======
+queue :
+====== STACK : stackSize ======
+stackSize = 4
+stack : 2100 31264 28651 30807
+====== QUEUE : first ======
+first = NULL
+queue :
+====== QUEUE : first ======
+first = NULL
+queue :
+====== QUEUE : first ======
+first = NULL
+queue :
+====== STACK : top ======
+top = 2100
+stack : 2100 31264 28651 30807
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 2100 31264 28651 30807
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== STACK : pop ======
+stack : 31264 28651 30807
+====== QUEUE : enqueue ======
+queue : 23367
+====== STACK : stackSize ======
+stackSize = 3
+stack : 31264 28651 30807
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 23367
+====== STACK : pop ======
+stack : 28651 30807
+====== STACK : push ======
+stack : 20323 28651 30807
+====== STACK : top ======
+top = 20323
+stack : 20323 28651 30807
+====== STACK : stackSize ======
+stackSize = 3
+stack : 20323 28651 30807
+====== STACK : pop ======
+stack : 28651 30807
+====== QUEUE : first ======
+first = 23367
+queue : 23367
+====== QUEUE : enqueue ======
+queue : 5622 23367
+====== QUEUE : queueSize ======
+queueSize = 2
+queue : 5622 23367
+====== QUEUE : enqueue ======
+queue : 17571 5622 23367
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 17571 5622 23367
+====== QUEUE : dequeue ======
+queue : 17571 5622
+====== QUEUE : queueSize ======
+queueSize = 2
+queue : 17571 5622
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 28651 30807
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 17571 5622
+====== STACK : stackSize ======
+stackSize = 2
+stack : 28651 30807
+====== STACK : stackSize ======
+stackSize = 2
+stack : 28651 30807
+====== STACK : stackSize ======
+stackSize = 2
+stack : 28651 30807
+====== STACK : push ======
+stack : 20180 28651 30807
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 17571 5622
+====== STACK : top ======
+top = 20180
+stack : 20180 28651 30807
+====== STACK : push ======
+stack : 9203 20180 28651 30807
+====== QUEUE : dequeue ======
+queue : 17571
+====== QUEUE : enqueue ======
+queue : 20143 17571
+====== STACK : top ======
+top = 9203
+stack : 9203 20180 28651 30807
+====== STACK : deleteStack ======
+stack :
+====== QUEUE : queueSize ======
+queueSize = 2
+queue : 20143 17571
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== QUEUE : dequeue ======
+queue : 20143
+====== QUEUE : first ======
+first = 20143
+queue : 20143
+====== STACK : pop ======
+stack :
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== STACK : stackSize ======
+stackSize = 0
+stack :
+====== QUEUE : enqueue ======
+queue : 14743 20143
+====== QUEUE : queueSize ======
+queueSize = 2
+queue : 14743 20143
+====== STACK : pop ======
+stack :
+====== QUEUE : enqueue ======
+queue : 18709 14743 20143
+====== QUEUE : first ======
+first = 20143
+queue : 18709 14743 20143
+====== QUEUE : dequeue ======
+queue : 18709 14743
+====== QUEUE : dequeue ======
+queue : 18709
+====== QUEUE : first ======
+first = 18709
+queue : 18709
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 18709
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== QUEUE : enqueue ======
+queue : 6730 18709
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== QUEUE : first ======
+first = 18709
+queue : 6730 18709
+====== QUEUE : dequeue ======
+queue : 6730
+====== QUEUE : enqueue ======
+queue : 4688 6730
+====== STACK : pop ======
+stack :
+====== STACK : pop ======
+stack :
+====== STACK : pop ======
+stack :
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== STACK : stackSize ======
+stackSize = 0
+stack :
+====== STACK : stackSize ======
+stackSize = 0
+stack :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 4688 6730
+====== QUEUE : first ======
+first = 6730
+queue : 4688 6730
+====== QUEUE : enqueue ======
+queue : 7988 4688 6730
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== QUEUE : enqueue ======
+queue : 7125 7988 4688 6730
+====== QUEUE : queueSize ======
+queueSize = 4
+queue : 7125 7988 4688 6730
+====== STACK : top ======
+top = NULL
+stack :
+====== STACK : top ======
+top = NULL
+stack :
+====== QUEUE : enqueue ======
+queue : 27037 7125 7988 4688 6730
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 27037 7125 7988 4688 6730
+====== QUEUE : queueSize ======
+queueSize = 5
+queue : 27037 7125 7988 4688 6730
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== STACK : stackSize ======
+stackSize = 0
+stack :
+====== STACK : push ======
+stack : 11263
+====== QUEUE : enqueue ======
+queue : 4712 27037 7125 7988 4688 6730
+====== STACK : pop ======
+stack :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 4712 27037 7125 7988 4688 6730
+====== STACK : pop ======
+stack :
+====== QUEUE : first ======
+first = 6730
+queue : 4712 27037 7125 7988 4688 6730
+====== QUEUE : enqueue ======
+queue : 12734 4712 27037 7125 7988 4688 6730
+====== QUEUE : queueSize ======
+queueSize = 7
+queue : 12734 4712 27037 7125 7988 4688 6730
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== QUEUE : queueSize ======
+queueSize = 7
+queue : 12734 4712 27037 7125 7988 4688 6730
+====== STACK : stackSize ======
+stackSize = 0
+stack :
+====== STACK : top ======
+top = NULL
+stack :
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== STACK : top ======
+top = NULL
+stack :
+====== QUEUE : enqueue ======
+queue : 24849 12734 4712 27037 7125 7988 4688 6730
+====== QUEUE : dequeue ======
+queue : 24849 12734 4712 27037 7125 7988 4688
+====== STACK : push ======
+stack : 24394
+====== STACK : push ======
+stack : 6698 24394
+====== QUEUE : queueSize ======
+queueSize = 7
+queue : 24849 12734 4712 27037 7125 7988 4688
+====== STACK : push ======
+stack : 17730 6698 24394
+====== STACK : pop ======
+stack : 6698 24394
+====== QUEUE : first ======
+first = 4688
+queue : 24849 12734 4712 27037 7125 7988 4688
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 24849 12734 4712 27037 7125 7988 4688
+====== STACK : push ======
+stack : 5306 6698 24394
+====== QUEUE : dequeue ======
+queue : 24849 12734 4712 27037 7125 7988
+====== QUEUE : enqueue ======
+queue : 1782 24849 12734 4712 27037 7125 7988
+====== STACK : push ======
+stack : 31246 5306 6698 24394
+====== QUEUE : queueSize ======
+queueSize = 7
+queue : 1782 24849 12734 4712 27037 7125 7988
+====== STACK : push ======
+stack : 25942 31246 5306 6698 24394
+====== QUEUE : dequeue ======
+queue : 1782 24849 12734 4712 27037 7125
+====== QUEUE : enqueue ======
+queue : 27512 1782 24849 12734 4712 27037 7125
+====== QUEUE : enqueue ======
+queue : 7869 27512 1782 24849 12734 4712 27037 7125
+====== STACK : stackSize ======
+stackSize = 5
+stack : 25942 31246 5306 6698 24394
+====== STACK : top ======
+top = 25942
+stack : 25942 31246 5306 6698 24394
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 25942 31246 5306 6698 24394
+====== STACK : top ======
+top = 25942
+stack : 25942 31246 5306 6698 24394
+====== QUEUE : queueSize ======
+queueSize = 8
+queue : 7869 27512 1782 24849 12734 4712 27037 7125
+====== STACK : push ======
+stack : 30848 25942 31246 5306 6698 24394
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 30848 25942 31246 5306 6698 24394
+====== QUEUE : first ======
+first = 7125
+queue : 7869 27512 1782 24849 12734 4712 27037 7125
+====== QUEUE : queueSize ======
+queueSize = 8
+queue : 7869 27512 1782 24849 12734 4712 27037 7125
+====== STACK : top ======
+top = 30848
+stack : 30848 25942 31246 5306 6698 24394
+====== STACK : top ======
+top = 30848
+stack : 30848 25942 31246 5306 6698 24394
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 30848 25942 31246 5306 6698 24394
+====== STACK : top ======
+top = 30848
+stack : 30848 25942 31246 5306 6698 24394
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 30848 25942 31246 5306 6698 24394
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 30848 25942 31246 5306 6698 24394
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 30848 25942 31246 5306 6698 24394
+====== QUEUE : enqueue ======
+queue : 2619 7869 27512 1782 24849 12734 4712 27037 7125
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 2619 7869 27512 1782 24849 12734 4712 27037 7125
+====== STACK : push ======
+stack : 3816 30848 25942 31246 5306 6698 24394
+====== QUEUE : queueSize ======
+queueSize = 9
+queue : 2619 7869 27512 1782 24849 12734 4712 27037 7125
+====== QUEUE : queueSize ======
+queueSize = 9
+queue : 2619 7869 27512 1782 24849 12734 4712 27037 7125
+====== STACK : top ======
+top = 3816
+stack : 3816 30848 25942 31246 5306 6698 24394
+====== STACK : pop ======
+stack : 30848 25942 31246 5306 6698 24394
+====== STACK : top ======
+top = 30848
+stack : 30848 25942 31246 5306 6698 24394
+====== STACK : push ======
+stack : 4350 30848 25942 31246 5306 6698 24394
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 4350 30848 25942 31246 5306 6698 24394
+====== STACK : push ======
+stack : 25286 4350 30848 25942 31246 5306 6698 24394
+====== QUEUE : dequeue ======
+queue : 2619 7869 27512 1782 24849 12734 4712 27037
+====== QUEUE : first ======
+first = 27037
+queue : 2619 7869 27512 1782 24849 12734 4712 27037
+====== QUEUE : queueSize ======
+queueSize = 8
+queue : 2619 7869 27512 1782 24849 12734 4712 27037
+====== STACK : top ======
+top = 25286
+stack : 25286 4350 30848 25942 31246 5306 6698 24394
+====== STACK : stackSize ======
+stackSize = 8
+stack : 25286 4350 30848 25942 31246 5306 6698 24394
+====== STACK : top ======
+top = 25286
+stack : 25286 4350 30848 25942 31246 5306 6698 24394
+====== STACK : push ======
+stack : 7960 25286 4350 30848 25942 31246 5306 6698 24394
+====== STACK : pop ======
+stack : 25286 4350 30848 25942 31246 5306 6698 24394
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 25286 4350 30848 25942 31246 5306 6698 24394
+====== STACK : push ======
+stack : 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== QUEUE : queueSize ======
+queueSize = 8
+queue : 2619 7869 27512 1782 24849 12734 4712 27037
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 2619 7869 27512 1782 24849 12734 4712 27037
+====== STACK : stackSize ======
+stackSize = 9
+stack : 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== STACK : top ======
+top = 15437
+stack : 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== QUEUE : dequeue ======
+queue : 2619 7869 27512 1782 24849 12734 4712
+====== STACK : stackSize ======
+stackSize = 9
+stack : 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== QUEUE : first ======
+first = 4712
+queue : 2619 7869 27512 1782 24849 12734 4712
+====== QUEUE : dequeue ======
+queue : 2619 7869 27512 1782 24849 12734
+====== STACK : push ======
+stack : 15842 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 2619 7869 27512 1782 24849 12734
+====== STACK : pop ======
+stack : 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== QUEUE : queueSize ======
+queueSize = 6
+queue : 2619 7869 27512 1782 24849 12734
+====== QUEUE : enqueue ======
+queue : 17640 2619 7869 27512 1782 24849 12734
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 17640 2619 7869 27512 1782 24849 12734
+====== STACK : stackSize ======
+stackSize = 9
+stack : 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== STACK : top ======
+top = 15437
+stack : 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== STACK : top ======
+top = 15437
+stack : 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== QUEUE : first ======
+first = 12734
+queue : 17640 2619 7869 27512 1782 24849 12734
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== QUEUE : first ======
+first = 12734
+queue : 17640 2619 7869 27512 1782 24849 12734
+====== QUEUE : first ======
+first = 12734
+queue : 17640 2619 7869 27512 1782 24849 12734
+====== STACK : stackSize ======
+stackSize = 9
+stack : 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== QUEUE : dequeue ======
+queue : 17640 2619 7869 27512 1782 24849
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== STACK : push ======
+stack : 16518 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== STACK : stackSize ======
+stackSize = 10
+stack : 16518 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== QUEUE : dequeue ======
+queue : 17640 2619 7869 27512 1782
+====== STACK : top ======
+top = 16518
+stack : 16518 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== QUEUE : first ======
+first = 1782
+queue : 17640 2619 7869 27512 1782
+====== QUEUE : enqueue ======
+queue : 9177 17640 2619 7869 27512 1782
+====== QUEUE : first ======
+first = 1782
+queue : 9177 17640 2619 7869 27512 1782
+====== STACK : stackSize ======
+stackSize = 10
+stack : 16518 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 16518 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== QUEUE : queueSize ======
+queueSize = 6
+queue : 9177 17640 2619 7869 27512 1782
+====== QUEUE : first ======
+first = 1782
+queue : 9177 17640 2619 7869 27512 1782
+====== STACK : stackSize ======
+stackSize = 10
+stack : 16518 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== QUEUE : first ======
+first = 1782
+queue : 9177 17640 2619 7869 27512 1782
+====== STACK : top ======
+top = 16518
+stack : 16518 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== QUEUE : dequeue ======
+queue : 9177 17640 2619 7869 27512
+====== QUEUE : dequeue ======
+queue : 9177 17640 2619 7869
+====== STACK : push ======
+stack : 22135 16518 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== STACK : top ======
+top = 22135
+stack : 22135 16518 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== QUEUE : enqueue ======
+queue : 16689 9177 17640 2619 7869
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 16689 9177 17640 2619 7869
+====== QUEUE : dequeue ======
+queue : 16689 9177 17640 2619
+====== QUEUE : enqueue ======
+queue : 31869 16689 9177 17640 2619
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 22135 16518 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 31869 16689 9177 17640 2619
+====== STACK : pop ======
+stack : 16518 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== QUEUE : first ======
+first = 2619
+queue : 31869 16689 9177 17640 2619
+====== STACK : stackSize ======
+stackSize = 10
+stack : 16518 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== QUEUE : first ======
+first = 2619
+queue : 31869 16689 9177 17640 2619
+====== QUEUE : first ======
+first = 2619
+queue : 31869 16689 9177 17640 2619
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 31869 16689 9177 17640 2619
+====== QUEUE : dequeue ======
+queue : 31869 16689 9177 17640
+====== STACK : push ======
+stack : 15700 16518 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== STACK : push ======
+stack : 30785 15700 16518 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== QUEUE : dequeue ======
+queue : 31869 16689 9177
+====== STACK : push ======
+stack : 3741 30785 15700 16518 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== QUEUE : queueSize ======
+queueSize = 3
+queue : 31869 16689 9177
+====== QUEUE : dequeue ======
+queue : 31869 16689
+====== QUEUE : queueSize ======
+queueSize = 2
+queue : 31869 16689
+====== QUEUE : first ======
+first = 16689
+queue : 31869 16689
+====== STACK : stackSize ======
+stackSize = 13
+stack : 3741 30785 15700 16518 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== STACK : top ======
+top = 3741
+stack : 3741 30785 15700 16518 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== QUEUE : dequeue ======
+queue : 31869
+====== STACK : pop ======
+stack : 30785 15700 16518 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== QUEUE : enqueue ======
+queue : 16243 31869
+====== QUEUE : dequeue ======
+queue : 16243
+====== STACK : push ======
+stack : 30750 30785 15700 16518 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 16243
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 16243
+====== QUEUE : deleteQueue ======
+queue :
+====== STACK : stackSize ======
+stackSize = 13
+stack : 30750 30785 15700 16518 15437 25286 4350 30848 25942 31246 5306 6698 24394
+====== STACK : deleteStack ======
+stack :
+====== QUEUE : dequeue ======
+queue :
+====== STACK : stackSize ======
+stackSize = 0
+stack :
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== STACK : top ======
+top = NULL
+stack :
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== QUEUE : first ======
+first = NULL
+queue :
+====== QUEUE : first ======
+first = NULL
+queue :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== STACK : pop ======
+stack :
+====== STACK : push ======
+stack : 8471
+====== STACK : top ======
+top = 8471
+stack : 8471
+====== QUEUE : first ======
+first = NULL
+queue :
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : first ======
+first = NULL
+queue :
+====== QUEUE : dequeue ======
+queue :
+====== STACK : top ======
+top = 8471
+stack : 8471
+====== STACK : top ======
+top = 8471
+stack : 8471
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== STACK : pop ======
+stack :
+====== STACK : pop ======
+stack :
+====== STACK : pop ======
+stack :
+====== STACK : stackSize ======
+stackSize = 0
+stack :
+====== STACK : stackSize ======
+stackSize = 0
+stack :
+====== STACK : top ======
+top = NULL
+stack :
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== QUEUE : dequeue ======
+queue :
+====== STACK : top ======
+top = NULL
+stack :
+====== STACK : push ======
+stack : 32604
+====== QUEUE : enqueue ======
+queue : 29732
+====== STACK : push ======
+stack : 12636 32604
+====== STACK : push ======
+stack : 21216 12636 32604
+====== STACK : push ======
+stack : 12908 21216 12636 32604
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 29732
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 29732
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 12908 21216 12636 32604
+====== STACK : top ======
+top = 12908
+stack : 12908 21216 12636 32604
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 29732
+====== STACK : top ======
+top = 12908
+stack : 12908 21216 12636 32604
+====== QUEUE : dequeue ======
+queue :
+====== STACK : stackSize ======
+stackSize = 4
+stack : 12908 21216 12636 32604
+====== QUEUE : queueSize ======
+queueSize = 0
+queue :
+====== STACK : push ======
+stack : 21764 12908 21216 12636 32604
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 21764 12908 21216 12636 32604
+====== QUEUE : enqueue ======
+queue : 2097
+====== QUEUE : enqueue ======
+queue : 14201 2097
+====== STACK : top ======
+top = 21764
+stack : 21764 12908 21216 12636 32604
+====== STACK : pop ======
+stack : 12908 21216 12636 32604
+====== STACK : pop ======
+stack : 21216 12636 32604
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 21216 12636 32604
+====== QUEUE : dequeue ======
+queue : 14201
+====== STACK : isStackEmpty ======
+isStackEmpty = 0
+stack : 21216 12636 32604
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 0
+queue : 14201
+====== STACK : deleteStack ======
+stack :
+====== QUEUE : first ======
+first = 14201
+queue : 14201
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 14201
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== STACK : push ======
+stack : 26291
+====== STACK : top ======
+top = 26291
+stack : 26291
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 14201
+====== QUEUE : first ======
+first = 14201
+queue : 14201
+====== QUEUE : queueSize ======
+queueSize = 1
+queue : 14201
+====== STACK : deleteStack ======
+stack :
+====== QUEUE : first ======
+first = 14201
+queue : 14201
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== STACK : top ======
+top = NULL
+stack :
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== QUEUE : dequeue ======
+queue :
+====== STACK : push ======
+stack : 19026
+====== QUEUE : first ======
+first = NULL
+queue :
+====== STACK : pop ======
+stack :
+====== STACK : top ======
+top = NULL
+stack :
+====== STACK : stackSize ======
+stackSize = 0
+stack :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== QUEUE : enqueue ======
+queue : 3729
+====== QUEUE : first ======
+first = 3729
+queue : 3729
+====== QUEUE : first ======
+first = 3729
+queue : 3729
+====== STACK : pop ======
+stack :
+====== QUEUE : first ======
+first = 3729
+queue : 3729
+====== STACK : stackSize ======
+stackSize = 0
+stack :
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : isQueueEmpty ======
+isQueueEmpty = 1
+queue :
+====== STACK : stackSize ======
+stackSize = 0
+stack :
+====== STACK : isStackEmpty ======
+isStackEmpty = 1
+stack :
+====== QUEUE : dequeue ======
+queue :
+====== QUEUE : dequeue ======
+queue :

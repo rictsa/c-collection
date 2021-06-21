@@ -1,0 +1,11 @@
+Case1 1 to 365:
+fh 6640
+1 ~ 101 class 3 NTD30
+101 ~ 201 class 2 NTD20
+201 ~ 365 class 1 NTD10
+
+Case2 101 to 365:
+fh 3640
+101 ~ 201 class 2 NTD20
+201 ~ 365 class 1 NTD10
+

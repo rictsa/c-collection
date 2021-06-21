@@ -1,0 +1,1000 @@
+push 25523
+top
+push 21344
+isQueueEmpty
+stackSize
+isQueueEmpty
+top
+queueSize
+enqueue 13064
+enqueue 17313
+queueSize
+dequeue
+dequeue
+isQueueEmpty
+isStackEmpty
+queueSize
+enqueue 23229
+dequeue
+dequeue
+dequeue
+stackSize
+top
+isQueueEmpty
+first
+top
+queueSize
+isQueueEmpty
+isQueueEmpty
+pop
+first
+top
+pop
+top
+isStackEmpty
+push 31417
+queueSize
+isStackEmpty
+pop
+top
+queueSize
+push 24302
+isStackEmpty
+deleteStack
+stackSize
+stackSize
+queueSize
+top
+dequeue
+dequeue
+isQueueEmpty
+top
+deleteStack
+push 17954
+push 26824
+isQueueEmpty
+pop
+pop
+pop
+pop
+isStackEmpty
+isStackEmpty
+isStackEmpty
+stackSize
+isStackEmpty
+dequeue
+dequeue
+dequeue
+push 5114
+dequeue
+enqueue 30141
+isQueueEmpty
+pop
+queueSize
+queueSize
+isStackEmpty
+top
+isStackEmpty
+isQueueEmpty
+dequeue
+pop
+stackSize
+isStackEmpty
+queueSize
+pop
+top
+top
+isStackEmpty
+first
+push 11822
+pop
+enqueue 5942
+isStackEmpty
+queueSize
+push 12992
+stackSize
+queueSize
+enqueue 24820
+enqueue 28716
+top
+queueSize
+first
+top
+first
+queueSize
+top
+push 7854
+dequeue
+queueSize
+stackSize
+dequeue
+isStackEmpty
+top
+isStackEmpty
+pop
+isQueueEmpty
+isStackEmpty
+isStackEmpty
+enqueue 25735
+pop
+queueSize
+isQueueEmpty
+top
+pop
+push 4755
+dequeue
+pop
+isQueueEmpty
+pop
+stackSize
+isStackEmpty
+first
+push 30847
+isStackEmpty
+isStackEmpty
+top
+isQueueEmpty
+isQueueEmpty
+queueSize
+queueSize
+isStackEmpty
+dequeue
+stackSize
+pop
+isQueueEmpty
+pop
+isQueueEmpty
+dequeue
+push 16558
+dequeue
+first
+stackSize
+enqueue 5793
+pop
+dequeue
+first
+isStackEmpty
+top
+pop
+top
+stackSize
+pop
+dequeue
+isStackEmpty
+enqueue 25978
+isStackEmpty
+dequeue
+isQueueEmpty
+pop
+isStackEmpty
+isStackEmpty
+push 19160
+first
+queueSize
+stackSize
+isStackEmpty
+push 18786
+pop
+dequeue
+isStackEmpty
+enqueue 23858
+isQueueEmpty
+push 18252
+pop
+pop
+pop
+first
+stackSize
+first
+pop
+dequeue
+isStackEmpty
+push 7265
+dequeue
+first
+isStackEmpty
+isStackEmpty
+push 10709
+top
+pop
+isStackEmpty
+isQueueEmpty
+pop
+pop
+push 28367
+stackSize
+enqueue 25771
+push 17473
+pop
+top
+push 25394
+isStackEmpty
+first
+pop
+dequeue
+enqueue 10060
+dequeue
+push 29326
+isQueueEmpty
+pop
+queueSize
+isQueueEmpty
+pop
+isQueueEmpty
+dequeue
+top
+first
+top
+dequeue
+enqueue 4507
+top
+deleteQueue
+isStackEmpty
+pop
+top
+pop
+push 27212
+stackSize
+first
+top
+isStackEmpty
+isQueueEmpty
+queueSize
+dequeue
+top
+top
+isStackEmpty
+isQueueEmpty
+dequeue
+isQueueEmpty
+stackSize
+top
+enqueue 1866
+pop
+dequeue
+enqueue 17486
+dequeue
+top
+queueSize
+stackSize
+push 32404
+push 8213
+enqueue 4839
+stackSize
+isStackEmpty
+top
+push 30689
+isQueueEmpty
+first
+isStackEmpty
+isQueueEmpty
+pop
+push 20059
+top
+queueSize
+first
+first
+push 15343
+isQueueEmpty
+top
+isStackEmpty
+first
+first
+top
+top
+isStackEmpty
+isQueueEmpty
+pop
+isQueueEmpty
+isQueueEmpty
+isStackEmpty
+isQueueEmpty
+push 17255
+stackSize
+enqueue 14457
+first
+isQueueEmpty
+push 13702
+isQueueEmpty
+top
+top
+push 22928
+first
+top
+first
+push 2605
+top
+isQueueEmpty
+dequeue
+enqueue 19255
+isQueueEmpty
+dequeue
+isStackEmpty
+isStackEmpty
+first
+push 21817
+dequeue
+stackSize
+first
+first
+isStackEmpty
+enqueue 8981
+stackSize
+isStackEmpty
+dequeue
+push 21073
+dequeue
+push 26641
+queueSize
+isStackEmpty
+isQueueEmpty
+first
+first
+enqueue 23901
+top
+isStackEmpty
+pop
+dequeue
+isQueueEmpty
+push 23871
+isStackEmpty
+queueSize
+queueSize
+queueSize
+push 3956
+queueSize
+pop
+pop
+queueSize
+first
+dequeue
+pop
+queueSize
+push 21311
+top
+top
+dequeue
+queueSize
+stackSize
+top
+dequeue
+top
+dequeue
+top
+deleteQueue
+pop
+first
+top
+push 30757
+stackSize
+push 22601
+first
+enqueue 27089
+enqueue 15829
+top
+dequeue
+push 13208
+first
+queueSize
+top
+stackSize
+enqueue 2000
+dequeue
+pop
+stackSize
+stackSize
+top
+first
+enqueue 17387
+queueSize
+stackSize
+stackSize
+first
+isStackEmpty
+pop
+enqueue 12647
+isStackEmpty
+top
+dequeue
+dequeue
+queueSize
+pop
+queueSize
+top
+queueSize
+push 30967
+stackSize
+dequeue
+dequeue
+first
+isQueueEmpty
+dequeue
+pop
+pop
+isQueueEmpty
+pop
+queueSize
+push 4982
+push 8569
+push 31751
+enqueue 9663
+dequeue
+dequeue
+stackSize
+first
+isStackEmpty
+first
+enqueue 14043
+isStackEmpty
+first
+dequeue
+enqueue 10043
+enqueue 4073
+isStackEmpty
+stackSize
+top
+stackSize
+enqueue 30860
+first
+first
+enqueue 28016
+dequeue
+pop
+pop
+first
+pop
+top
+isQueueEmpty
+push 10543
+pop
+dequeue
+dequeue
+isQueueEmpty
+stackSize
+isStackEmpty
+pop
+isStackEmpty
+push 6054
+isStackEmpty
+isQueueEmpty
+first
+first
+enqueue 12156
+isStackEmpty
+first
+enqueue 7490
+first
+dequeue
+top
+isQueueEmpty
+pop
+pop
+pop
+dequeue
+stackSize
+isStackEmpty
+enqueue 11705
+dequeue
+isQueueEmpty
+top
+dequeue
+pop
+pop
+isQueueEmpty
+dequeue
+push 6005
+isQueueEmpty
+isQueueEmpty
+isQueueEmpty
+isQueueEmpty
+top
+isStackEmpty
+first
+isQueueEmpty
+pop
+dequeue
+dequeue
+isStackEmpty
+push 12329
+isStackEmpty
+stackSize
+stackSize
+top
+top
+isStackEmpty
+pop
+isQueueEmpty
+dequeue
+first
+queueSize
+dequeue
+enqueue 14179
+top
+stackSize
+isQueueEmpty
+dequeue
+queueSize
+isQueueEmpty
+dequeue
+dequeue
+push 21554
+dequeue
+isStackEmpty
+stackSize
+top
+pop
+push 19158
+queueSize
+queueSize
+isStackEmpty
+stackSize
+stackSize
+isQueueEmpty
+top
+pop
+isQueueEmpty
+enqueue 22222
+pop
+isQueueEmpty
+enqueue 22696
+first
+top
+top
+isStackEmpty
+enqueue 28302
+push 27889
+push 18540
+dequeue
+queueSize
+isStackEmpty
+push 30856
+first
+pop
+top
+isStackEmpty
+queueSize
+queueSize
+dequeue
+isStackEmpty
+isStackEmpty
+queueSize
+pop
+dequeue
+pop
+isQueueEmpty
+stackSize
+top
+queueSize
+top
+dequeue
+pop
+top
+isQueueEmpty
+top
+top
+enqueue 18231
+isQueueEmpty
+isQueueEmpty
+pop
+isStackEmpty
+isQueueEmpty
+first
+isStackEmpty
+isQueueEmpty
+top
+isQueueEmpty
+isStackEmpty
+pop
+stackSize
+queueSize
+first
+stackSize
+isStackEmpty
+push 8478
+first
+pop
+push 30807
+push 28651
+queueSize
+enqueue 28216
+dequeue
+queueSize
+queueSize
+stackSize
+top
+first
+isStackEmpty
+queueSize
+stackSize
+first
+queueSize
+first
+stackSize
+first
+queueSize
+enqueue 22692
+queueSize
+top
+stackSize
+push 27250
+isStackEmpty
+push 32132
+pop
+isStackEmpty
+stackSize
+pop
+isQueueEmpty
+dequeue
+isQueueEmpty
+isStackEmpty
+dequeue
+top
+isStackEmpty
+push 29451
+queueSize
+isQueueEmpty
+enqueue 23718
+enqueue 28061
+dequeue
+push 5792
+first
+push 6441
+queueSize
+isQueueEmpty
+isStackEmpty
+queueSize
+push 27347
+dequeue
+stackSize
+pop
+enqueue 16550
+dequeue
+enqueue 12872
+queueSize
+enqueue 24866
+pop
+dequeue
+top
+push 21993
+first
+stackSize
+pop
+dequeue
+first
+isStackEmpty
+stackSize
+first
+top
+first
+pop
+enqueue 23886
+isStackEmpty
+pop
+push 31264
+stackSize
+push 2100
+queueSize
+queueSize
+dequeue
+first
+first
+isQueueEmpty
+queueSize
+isStackEmpty
+dequeue
+stackSize
+first
+first
+first
+top
+isStackEmpty
+queueSize
+pop
+enqueue 23367
+stackSize
+isQueueEmpty
+pop
+push 20323
+top
+stackSize
+pop
+first
+enqueue 5622
+queueSize
+enqueue 17571
+isQueueEmpty
+dequeue
+queueSize
+isStackEmpty
+isQueueEmpty
+stackSize
+stackSize
+stackSize
+push 20180
+isQueueEmpty
+top
+push 9203
+dequeue
+enqueue 20143
+top
+deleteStack
+queueSize
+isStackEmpty
+dequeue
+first
+pop
+isStackEmpty
+stackSize
+enqueue 14743
+queueSize
+pop
+enqueue 18709
+first
+dequeue
+dequeue
+first
+isQueueEmpty
+isStackEmpty
+enqueue 6730
+isStackEmpty
+first
+dequeue
+enqueue 4688
+pop
+pop
+pop
+isStackEmpty
+stackSize
+stackSize
+isQueueEmpty
+first
+enqueue 7988
+isStackEmpty
+enqueue 7125
+queueSize
+top
+top
+enqueue 27037
+isQueueEmpty
+queueSize
+isStackEmpty
+stackSize
+push 11263
+enqueue 4712
+pop
+isQueueEmpty
+pop
+first
+enqueue 12734
+queueSize
+isStackEmpty
+queueSize
+stackSize
+top
+isStackEmpty
+top
+enqueue 24849
+dequeue
+push 24394
+push 6698
+queueSize
+push 17730
+pop
+first
+isQueueEmpty
+push 5306
+dequeue
+enqueue 1782
+push 31246
+queueSize
+push 25942
+dequeue
+enqueue 27512
+enqueue 7869
+stackSize
+top
+isStackEmpty
+top
+queueSize
+push 30848
+isStackEmpty
+first
+queueSize
+top
+top
+isStackEmpty
+top
+isStackEmpty
+isStackEmpty
+isStackEmpty
+enqueue 2619
+isQueueEmpty
+push 3816
+queueSize
+queueSize
+top
+pop
+top
+push 4350
+isStackEmpty
+push 25286
+dequeue
+first
+queueSize
+top
+stackSize
+top
+push 7960
+pop
+isStackEmpty
+push 15437
+queueSize
+isQueueEmpty
+stackSize
+top
+dequeue
+stackSize
+first
+dequeue
+push 15842
+isQueueEmpty
+pop
+queueSize
+enqueue 17640
+isQueueEmpty
+stackSize
+top
+isStackEmpty
+top
+first
+isStackEmpty
+first
+first
+stackSize
+dequeue
+isStackEmpty
+push 16518
+stackSize
+dequeue
+top
+first
+enqueue 9177
+first
+stackSize
+isStackEmpty
+queueSize
+first
+stackSize
+first
+top
+dequeue
+dequeue
+push 22135
+top
+enqueue 16689
+isQueueEmpty
+dequeue
+enqueue 31869
+isStackEmpty
+isQueueEmpty
+pop
+first
+stackSize
+first
+first
+isQueueEmpty
+dequeue
+push 15700
+push 30785
+dequeue
+push 3741
+queueSize
+dequeue
+queueSize
+first
+stackSize
+top
+dequeue
+pop
+enqueue 16243
+dequeue
+push 30750
+isQueueEmpty
+isQueueEmpty
+deleteQueue
+stackSize
+deleteStack
+dequeue
+stackSize
+queueSize
+top
+isStackEmpty
+isQueueEmpty
+first
+first
+isQueueEmpty
+dequeue
+queueSize
+pop
+push 8471
+top
+first
+queueSize
+dequeue
+first
+dequeue
+top
+top
+dequeue
+isQueueEmpty
+queueSize
+queueSize
+isQueueEmpty
+pop
+pop
+pop
+stackSize
+stackSize
+top
+queueSize
+dequeue
+top
+push 32604
+enqueue 29732
+push 12636
+push 21216
+push 12908
+queueSize
+isQueueEmpty
+isStackEmpty
+top
+queueSize
+top
+dequeue
+stackSize
+queueSize
+push 21764
+isStackEmpty
+enqueue 2097
+enqueue 14201
+top
+pop
+pop
+isStackEmpty
+dequeue
+isStackEmpty
+isQueueEmpty
+deleteStack
+first
+queueSize
+isStackEmpty
+push 26291
+top
+queueSize
+first
+queueSize
+deleteStack
+first
+isStackEmpty
+top
+isStackEmpty
+dequeue
+push 19026
+first
+pop
+top
+stackSize
+isQueueEmpty
+enqueue 3729
+first
+first
+pop
+first
+stackSize
+dequeue
+dequeue
+isQueueEmpty
+stackSize
+isStackEmpty
+dequeue
+dequeue
